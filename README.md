@@ -10,10 +10,10 @@ A hastily-put-together "screw you" to the online safety act. Ironically works be
     * **Firefox:** Type `about:debugging` into the address bar.
 4.  Enable developer mode:
     * **Chrome/Edge:** Toggle on **Developer mode**.
-    * **Firefox:** On the `about:debugging` page, click on **This Firefox** in the sidebar.
+    * **Firefox:** On the `about:debugging` page, click on `This Firefox` in the sidebar.
 5.  Load the extension:
-    * **Chrome/Edge:** Click the **Load unpacked** button and select the folder you unzipped ("GoonToStarmer-main", unless you changed it).
-    * **Firefox:** Click the **Load Temporary Add-on…** button, navigate to the unzipped folder, and select the `manifest.json` file.
+    * **Chrome/Edge:** Click the `Load unpacked` button and select the folder you unzipped (`GoonToStarmer-main`, unless you changed it).
+    * **Firefox:** Click the `Load Temporary Add-on…` button, navigate to the unzipped folder, and select the `manifest.json` file.
 6.  Enjoy your UK Government Approved* Internet Experience! It's good for a quick laugh, but it makes the Internet close to unusable.
 *(not officially endorsed by the UK Government)
 
