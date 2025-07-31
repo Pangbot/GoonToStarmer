@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Goon to Starmer",
+  "version": "1.0",
+  "description": "Enjoy your UK Government Approved* Internet Experience! *(not officially endorsed by the UK Government)",
+  "icons": {
+    "16": "keir.png",
+    "48": "keir.png",
+    "128": "keir.png"
+  },
+  "permissions": ["activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["goonToStarmer.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["keir.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
