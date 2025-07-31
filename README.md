@@ -14,7 +14,7 @@ A hastily-put-together "screw you" to the online safety act. Ironically works be
 5.  Load the extension:
     * **Chrome/Edge:** Click the `Load unpacked` button and select the folder you unzipped (`GoonToStarmer-main`, unless you changed it).
     * **Firefox:** Click the `Load Temporary Add-on…` button, navigate to the unzipped folder, and select the `manifest.json` file.
-6.  Enjoy your UK Government Approved* Internet Experience! It's good for a quick laugh, but it makes the Internet close to unusable.
+6.  Enjoy your UK Government Approved* Internet Experience! It's good for a quick laugh, but it makes the Internet close to unusable.  
 *(not officially endorsed by the UK Government)
 
 ## Image Previews
