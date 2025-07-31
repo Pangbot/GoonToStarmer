@@ -3,12 +3,14 @@ A hastily-put-together "screw you" to the online safety act. Ironically works be
 
 Here are some example images of what awaits you:
 
-![](./preview_images/1)
+![Doesn't Keir look so bashful?](./preview_images/1.png)
 
-![](./preview_images/2)
+![No porn for bad boys. :3](./preview_images/2.png)
 
-![](./preview_images/3)
+![These are all free sites with no verification by the way.](./preview_images/3.png)
 
-![](./preview_images/4)
+![Some of the replacements are a bit... aggressive.](./preview_images/4.png)
 
-![](./preview_images/5)
+![Thanks Online Safety Act!](./preview_images/5.png)
+
+![Sign if you haven't. "No" doesn't always mean no when it comes to law.](./preview_images/6.png)
