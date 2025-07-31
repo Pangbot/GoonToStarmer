@@ -9,7 +9,7 @@ A hastily-put-together "screw you" to the online safety act. Ironically works be
     * **Chrome/Edge:** Type `chrome://extensions` (or `edge://extensions`) into the address bar.
     * **Firefox:** Type `about:debugging` into the address bar.
 4.  Enable developer mode:
-    * **Chrome/Edge:** In the top-right corner of the extensions page, toggle on **Developer mode**.
+    * **Chrome/Edge:** Toggle on **Developer mode**.
     * **Firefox:** On the `about:debugging` page, click on **This Firefox** in the sidebar.
 5.  Load the extension:
     * **Chrome/Edge:** Click the **Load unpacked** button and select the folder you unzipped ("GoonToStarmer-main", unless you changed it).
